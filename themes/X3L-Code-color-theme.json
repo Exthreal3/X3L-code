@@ -1,5 +1,14 @@
 {
 	"name": "X3L-Code",
+	"publisher": "X3L",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Exthreal3/x3l-code"
+	},
+	"categories": [
+		"Themes",
+		"X3L"
+	],
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 		"enumMember": {
