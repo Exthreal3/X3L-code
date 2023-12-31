@@ -1,0 +1,21 @@
+{
+  "name": "x3l-code",
+  "displayName": "X3L-Code",
+  "description": "X3L Theme for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "X3L-Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/X3L-Code-color-theme.json"
+      }
+    ]
+  }
+}
